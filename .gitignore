@@ -1,0 +1,25 @@
+# Arduino
+*.ino.cpp
+*.hex
+*.elf
+
+# Compiled files
+*.o
+*.exe
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python (para futura IA)
+__pycache__/
+*.pyc
+env/
+venv/
+
+# Logs
+*.log
