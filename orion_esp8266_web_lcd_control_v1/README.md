@@ -4,6 +4,12 @@ Firmware: `orion_esp8266_web_lcd_control_v1.ino`
 
 ---
 
+## 🎥 Demonstração em Vídeo
+
+[▶ Ver demonstração no YouTube](https://youtube.com/shorts/gwjyUfx9qMI?feature=share)
+
+---
+
 ## 📌 Descrição
 
 Este módulo expande o controlo web do Orion integrando um display TFT SPI.
