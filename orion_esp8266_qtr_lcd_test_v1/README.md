@@ -4,6 +4,12 @@ Firmware: `orion_esp8266_qtr_lcd_test_v1.ino`
 
 ---
 
+## 🎥 Demonstração em Vídeo
+
+[▶ Ver demonstração no YouTube](https://youtube.com/shorts/WwQfm6-C9CA?feature=share)
+
+---
+
 ## 📌 Descrição
 
 Este módulo testa a leitura de um sensor do array Pololu QTR-8RC utilizando a placa NodeMCU HW-389 (ESP8266) e apresenta o resultado no display TFT SPI.

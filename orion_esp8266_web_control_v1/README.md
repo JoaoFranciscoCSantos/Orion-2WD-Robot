@@ -4,6 +4,12 @@ Firmware: `orion_esp8266_web_control_v1.ino`
 
 ---
 
+## 🎥 Demonstração em Vídeo
+
+[▶ Ver demonstração no YouTube](https://youtube.com/shorts/GS2C35gP7ic?feature=share)
+
+---
+
 ## 📌 Descrição
 
 Este módulo implementa uma interface web simples para controlo remoto do ESP8266 através de um smartphone ou browser.
