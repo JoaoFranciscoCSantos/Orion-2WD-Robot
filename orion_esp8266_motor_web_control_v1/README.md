@@ -138,6 +138,7 @@ Connect STBY directly to 3.3V instead of using D8.
 ## 📁 Project Structure
 
 orion_esp8266_motor_web_control_v1/
+
  ├── orion_esp8266_motor_web_control_v1.ino
  
  ├── secrets.example.h
