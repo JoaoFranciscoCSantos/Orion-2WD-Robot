@@ -98,14 +98,14 @@ void motorForward() {
   delay(50);
   digitalWrite(AIN1, HIGH);
   digitalWrite(AIN2, LOW);
-  analogWrite(PWMA, 800);
+  analogWrite(PWMA, 500);
 }
 
 
 void motorBackward() {
   digitalWrite(AIN1, LOW);
   digitalWrite(AIN2, HIGH);
-  analogWrite(PWMA, 800);
+  analogWrite(PWMA, 500);
 }
 
 void motorStop() {
