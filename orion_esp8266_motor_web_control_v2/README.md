@@ -6,6 +6,12 @@ This version builds on **orion_esp8266_motor_web_control_v1**, introducing real-
 
 ---
 
+## 🎥 Demonstração em Vídeo
+
+[▶ Ver demonstração no YouTube](https://youtube.com/shorts/sLTzFPbsDGI)
+
+---
+
 ## 📌 Overview
 
 v2 extends the functionality of v1 by adding:
