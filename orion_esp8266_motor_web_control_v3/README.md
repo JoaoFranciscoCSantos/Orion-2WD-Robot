@@ -6,6 +6,12 @@ Version 3 extends v2 by introducing synchronized dual motor control, forming the
 
 ---
 
+## 🎥 Demonstração em Vídeo
+
+[▶ Ver demonstração no YouTube](https://youtube.com/shorts/ofZWXwOd44M?feature=share)
+
+---
+
 ## 📌 Overview
 
 v3 builds on:
